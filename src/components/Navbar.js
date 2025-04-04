@@ -21,7 +21,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link href="/FAQs">
-            <span className="cursor-pointer">FAQ's About me </span>
+            <span className="cursor-pointer">FAQ's</span>
           </Link>
         </li>
         {/* <li>
